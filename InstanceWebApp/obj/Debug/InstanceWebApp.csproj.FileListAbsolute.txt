@@ -1,0 +1,6 @@
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\bin\Debug\InstanceWebApp.exe.config
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\bin\Debug\InstanceWebApp.exe
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\bin\Debug\InstanceWebApp.pdb
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\obj\Debug\InstanceWebApp.csprojResolveAssemblyReference.cache
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\obj\Debug\InstanceWebApp.exe
+c:\users\benperk\documents\visual studio 2015\Projects\InstanceWebApp\InstanceWebApp\obj\Debug\InstanceWebApp.pdb
